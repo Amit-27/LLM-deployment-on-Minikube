@@ -40,8 +40,8 @@ LLM Model (Ollama / Local Model)
 
 * Kubernetes (Minikube)
 * Docker
-* Python (FastAPI / Flask)
-* LLM (Ollama / Mistral / Local Model)
+* Python (FastAPI)
+* LLM (Ollama)
 * kubectl CLI
 * Git & GitHub
 
