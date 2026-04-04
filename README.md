@@ -207,7 +207,7 @@ Feel free to fork and improve this project!
 
 ## ⭐ Acknowledgment
 
-This project is part of hands-on learning for **SRE / Cloud / MLOps roles**.
+This project is part of hands-on learning for hosting LLM Model.
 
 ---
 
