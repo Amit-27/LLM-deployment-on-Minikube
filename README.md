@@ -173,9 +173,7 @@ readinessProbe:
 
 * Add Ingress for external access
 * Implement autoscaling (HPA)
-* Integrate with GCP / Azure
 * Add monitoring (Prometheus + Grafana)
-* CI/CD pipeline (GitHub Actions)
 
 ---
 
@@ -186,16 +184,6 @@ readinessProbe:
 * API integration with AI models
 * Understanding container orchestration
 * Exposure to MLOps fundamentals
-
----
-
-## 💼 Resume Highlights
-
-* Deployed LLM application using Kubernetes (Minikube)
-* Designed scalable architecture with containerized services
-* Implemented API-based interaction for AI model inference
-* Troubleshot real-time deployment issues (500 errors, pod failures)
-* Applied DevOps best practices, including probes and service exposure
 
 ---
 
